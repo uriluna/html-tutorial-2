@@ -1,1 +1,40 @@
-# html-tutorial-2
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Laguna Brava Ecotourism</title>
+    </head>
+
+    <body>
+
+        <img src="imgs/panoramic-laguna-brava-2.jpg" alt="Panoramic view of Laguna Brava">
+
+        <h1>Welcome to Laguna Brava Ecotourism</h1>
+        <p>Learn everything about the activities that <a href="https://en.wikipedia.org/wiki/Laguna_Brava">Laguna Brava</a> offers to its visitors.</p>
+
+
+        <h2>Activities</h2>
+        <p>The communities offer two activities for guided visits that allow
+           visitors to enjoy Laguna Brava's natural beauty. In both activities, members 
+           of the Laguna Brava's community provide life vests and local guides who know the
+           lake very well to ensure your safety.</p>
+
+
+        <h3>The Lake Challenge</h3>
+        <p>Put your strengths to work by crossing the four kilometers in 
+           a kayak guided by a local guide. This adventure is physically demanding
+           and recommended for only those in excellent physical condition.
+        </p>
+
+
+         <ul>
+            <li>Duration: 5 hours approx</li>
+            <li>Price: USD 50</li>
+            <li>Minimum: 2 pax</li>
+         </ul>
+
+    
+
+
+    
+    </body>
+</html>
